@@ -84,3 +84,9 @@ body {
 .kol{
     margin: 10px;
 }
+.eror{
+    text-align: center;
+}
+.rer{
+    background-color: rgb(164, 164, 255);
+}
